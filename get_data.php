@@ -1,7 +1,7 @@
 <?php
 // Configurações do Banco de Dados
-$host = "";
-$dbname = "";
+$host = "localhost";
+$dbname = "esp01";
 $username = "";
 $password = "";
 
